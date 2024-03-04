@@ -1,0 +1,24 @@
+2024-03-03 10:11:51,159 - default.file - INFO - Test
+2024-03-03 10:11:54,692 - default.file - INFO - Test
+2024-03-03 10:11:54,692 - default.file - INFO - Test
+2024-03-03 10:11:58,388 - default.file - INFO - Test
+2024-03-03 10:11:58,388 - default.file - INFO - Test
+2024-03-03 10:11:58,388 - default.file - INFO - Test
+2024-03-03 10:13:31,915 - default.file - DEBUG - Train steps: 34262
+2024-03-03 10:13:31,915 - default.file - DEBUG - Train steps: 34262
+2024-03-03 10:13:31,915 - default.file - DEBUG - Train steps: 34262
+2024-03-03 10:13:31,915 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-03-03 10:13:31,915 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-03-03 10:13:31,915 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-03-03 10:13:31,916 - default.file - INFO - Epoch: 1
+2024-03-03 10:13:31,916 - default.file - INFO - Epoch: 1
+2024-03-03 10:13:31,916 - default.file - INFO - Epoch: 1
+2024-03-03 10:14:17,729 - default.file - DEBUG - Train steps: 34262
+2024-03-03 10:14:17,729 - default.file - DEBUG - Train steps: 34262
+2024-03-03 10:14:17,729 - default.file - DEBUG - Train steps: 34262
+2024-03-03 10:14:17,730 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-03-03 10:14:17,730 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-03-03 10:14:17,730 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-03-03 10:14:17,731 - default.file - INFO - Epoch: 1
+2024-03-03 10:14:17,731 - default.file - INFO - Epoch: 1
+2024-03-03 10:14:17,731 - default.file - INFO - Epoch: 1

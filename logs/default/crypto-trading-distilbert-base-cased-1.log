@@ -1,0 +1,23 @@
+2024-02-24 00:32:56,975 - default.file - DEBUG - Train steps: 34262
+2024-02-24 00:32:56,975 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-02-24 00:32:56,976 - default.file - INFO - Epoch: 1
+2024-02-24 06:54:03,873 - default.file - INFO - 
+2024-02-24 06:54:03,873 - default.file - INFO - Train loss: 0.43611023163407886 | Val loss: 0.4320524887708256
+2024-02-24 06:54:03,874 - default.file - INFO - Train acc: 0.8197137009558674 | Val acc: 0.8204849903273735
+2024-02-24 06:54:03,875 - default.file - INFO - Train f1: 0.8194579304642609 | Val f1: 0.8202221777441211
+2024-02-24 06:54:03,875 - default.file - INFO - Train precision: 0.8194706102132542 | Val precision: 0.820225175929938
+2024-02-24 06:54:03,876 - default.file - INFO - Train recall: 0.8194456910153096 | Val recall: 0.8202192039711642
+2024-02-24 07:39:14,533 - default.file - INFO - Val loss: 0.4320524887708256
+2024-02-24 07:39:14,533 - default.file - INFO - Val acc: 0.8204849903273735
+2024-02-24 07:39:14,533 - default.file - INFO - Val f1: 0.8202221777441211
+2024-02-24 07:39:14,534 - default.file - INFO - Val precision: 0.820225175929938
+2024-02-24 07:39:14,535 - default.file - INFO - Val recall: 0.8202192039711642
+2024-03-03 10:24:28,273 - default.file - DEBUG - Train steps: 34262
+2024-03-03 10:24:28,273 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-03-03 10:24:28,274 - default.file - INFO - Epoch: 1
+2024-03-03 10:24:49,495 - default.file - DEBUG - Train steps: 34262
+2024-03-03 10:24:49,496 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-03-03 10:24:49,496 - default.file - INFO - Epoch: 1
+2024-03-03 10:36:45,137 - default.file - DEBUG - Train steps: 34262
+2024-03-03 10:36:45,138 - default.file - DEBUG - Steps per epoch: 34262.279296875
+2024-03-03 10:36:45,138 - default.file - INFO - Epoch: 1

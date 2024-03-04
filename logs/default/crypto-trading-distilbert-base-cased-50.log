@@ -1,0 +1,13 @@
+2024-02-23 23:35:59,832 - default.file - DEBUG - Train steps: 156250
+2024-02-23 23:35:59,833 - default.file - DEBUG - Steps per epoch: 3125.0
+2024-02-23 23:35:59,834 - default.file - INFO - Epoch: 1
+2024-02-23 23:38:56,511 - default.file - DEBUG - Train steps: 156250
+2024-02-23 23:38:56,512 - default.file - DEBUG - Steps per epoch: 3125.0
+2024-02-23 23:38:56,513 - default.file - INFO - Epoch: 1
+2024-02-23 23:55:45,161 - default.file - INFO - 
+2024-02-23 23:55:45,161 - default.file - INFO - Train loss: 0.00029433247762736557 | Val loss: 0.0
+2024-02-23 23:55:45,161 - default.file - INFO - Train acc: 0.9999975 | Val acc: 1.0
+2024-02-23 23:55:45,162 - default.file - INFO - Train f1: 0.4999993749992187 | Val f1: 1.0
+2024-02-23 23:55:45,163 - default.file - INFO - Train precision: 0.5 | Val precision: 1.0
+2024-02-23 23:55:45,163 - default.file - INFO - Train recall: 0.49999875 | Val recall: 1.0
+2024-02-23 23:55:45,164 - default.file - INFO - Epoch: 2
